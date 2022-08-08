@@ -1,0 +1,19 @@
+Python: 
+    # python es un lenguaje formal
+    # Los lenguajes formales tienene reglas de sintaxis muy estrictas
+    # Simbolos: Tokens
+        (,) Pareja de numeros
+        (.) Decimales
+        (+) Adicion
+        (*) Multiplicacion
+        (-) Resta
+        (/) Division
+        ...
+
+    # Errorres de python:
+        Errrores de ejecución
+        Errores de sintaxis
+        Errores de semantica (invención)
+
+    # Primer programa en python ("Hola mundo")
+        Programa (Hola mundo) en "codigo_clase_1"
