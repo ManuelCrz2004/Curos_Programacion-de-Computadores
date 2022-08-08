@@ -16,4 +16,28 @@ Python:
         Errores de semantica (invención)
 
     # Primer programa en python ("Hola mundo")
-        Programa (Hola mundo) en "codigo_clase_1"
+        Programa (holamundo.py)
+
+
+    ## Variables, expresiones y enunciados
+
+        # Que es un valor?
+            Es un número o palabra que el programa manipulara
+
+            Numerico (int): entero y float (decimales)
+            Cadenta de texto (str): 'hola mundo', "hola mundo", ''' Hola mundo ''''
+            Booleanos (boolean): TRUE - FALSE
+
+        # Que es un variable?
+            Es un nombre que se refiere a un valor
+
+            # Para manipular datos, se usan las variables para manipular datos
+                Ejercicio de manipulación de variables (manipular_variables.py)
+
+            # Nombres en las variables 
+                Letras
+                Numeros
+                Deben iniciar ocn una letra o guion bajo (minusculas si es letra)
+                Python diferencia entre mayusculas y minusculas
+
+        ## Ejercicio en clase: Calcular area y perimetro del circulo (calcular_area_circulo.py) ##
