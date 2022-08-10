@@ -1,0 +1,6 @@
+nombre = input("ingrese su nombre: ")
+edad = input("Ingrese su edad: ")
+
+mensaje = 'Su nombre es ' + nombre + ' y tiene '+ edad +"años de edad"
+
+print(mensaje)

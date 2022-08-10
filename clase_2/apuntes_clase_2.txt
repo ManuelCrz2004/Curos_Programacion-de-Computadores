@@ -1,0 +1,48 @@
+CLASE NUMERO D0S
+
+#   Palabras clave en Python
+    and
+    as
+    assert
+    break
+    class
+    continue...
+
+#   Enunciados: (Es la linea en donde se ejecutan expresiones)
+        While
+        for
+        If
+        Import
+        Los anteriores son enunciados de asignacción. (son similares a las instrucciones)
+
+#   Expresiones: (Se refiere a cuando se vaya a realizar una operación en programación)
+
+#   Operadores: (son simbulos para representar calculos comunes)
+    +
+    *
+    -
+    /
+    %
+
+        Se pueden sumar strings, esto genera una conmutación (suma de los dos strings)
+        Se puede sumar un string con con un entero, esto genera una repetición de n veces del string
+
+#   Funciones para cambiar el tipo de dato a un valor:
+
+    Todas las funciones despues de la palabra reservada, lleva parentesis
+
+    #   int(XX.XX) int()    - me permite pasar a entero
+
+        Esta elimina la parte decimal de cualquier float. 
+        Para tranformar un string, se puede hacer pero solo si este no tiene punto
+        Cuando se hace con un entero no pasa nada
+
+    #   float(XXXX) - me permite pasar a decimal
+
+        Este añade la parte decimal de cualquier tipo de dato. 
+        Esto no tiene ninguna restricción de uso
+        Errores: cuando haya dos puntos (x.xx.xx) o coma (x,xxx) el cambio de valor no se ejecutan
+
+    #   str(XXXX)   - me permite pasar a cadena de texto
+        
+        Errores: Cuando se usa los dos puntos (x.x.xx) o la coma (x,xxx) no funciona
